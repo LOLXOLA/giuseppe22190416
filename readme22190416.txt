@@ -1,1 +1,2 @@
 Colaboración con GitHub - rama principal
+Proyecto: Actividad de práctica con Git y GitHub
