@@ -1,4 +1,1 @@
-Nombre: Giuseppe Lorenzana Morales
-Matrícula: 22190416
-Carrera: Ingeniería en Desarrollo y Gestión de Software
-Correo: dsm22190416.glorenzana@alumnos.utsv.edu.mx
+Colaboración con GitHub - rama principal
